@@ -1,6 +1,3 @@
-/**
- * 
- */
 package colleen.sudoku;
 
 import java.util.ArrayList;
